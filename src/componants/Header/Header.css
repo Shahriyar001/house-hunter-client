@@ -8,11 +8,18 @@
   padding-top: 1rem;
   padding-bottom: 1rem;
   color: var(--secondary);
-  justify-content: space-between;
+  justify-content: space-evenly;
+}
+
+.textlogo {
+  margin-right: 1px;
+  padding-right: 50px;
 }
 
 .h-menu {
   gap: 2rem;
+  margin-left: 200px;
+  padding-left: 100px;
 }
 .h-menu > *:hover {
   cursor: pointer;
