@@ -12,8 +12,9 @@
 }
 
 .textlogo {
-  margin-right: 1px;
-  padding-right: 50px;
+  /* margin-right: 1px;
+  padding-right: 50px; */
+  right: 0;
 }
 
 .h-menu {
